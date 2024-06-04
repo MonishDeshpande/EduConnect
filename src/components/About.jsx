@@ -5,9 +5,9 @@ function About() {
             <div class="py-12">
                 <div class="mx-auto max-w-7xl px-6 lg:px-8">
                     <div class="mx-auto max-w-2xl lg:text-center">
-                        <p class="text-3xl font-bold tracking-tight text-blue-600 sm:text-4xl">What is Collab.io</p>
-                        <p class="mt-4 text-lg leading-8 text-white">Welcome to <span class="font-bold text-blue-600">Collab.io</span>, the hub of innovation and collaboration!</p>
-                        <p class="mt-3 text-lg leading-8 text-white">At <span class="font-bold text-blue-600">Collab.io</span>, we're dedicated to fostering knowledge sharing, collaboration, and career opportunities for students, researchers, and innovators from diverse backgrounds. Our platform is designed to empower the next generation of creative minds.</p>
+                        <p class="text-3xl font-bold tracking-tight text-blue-600 sm:text-4xl">What is Edu-Connect</p>
+                        <p class="mt-4 text-lg leading-8 text-white">Welcome to <span class="font-bold text-blue-600">Edu-Connect</span>, the hub of innovation and collaboration!</p>
+                        <p class="mt-3 text-lg leading-8 text-white">At <span class="font-bold text-blue-600">Edu-Connect</span>, we're dedicated to fostering knowledge sharing, collaboration, and career opportunities for students, researchers, and innovators from diverse backgrounds. Our platform is designed to empower the next generation of creative minds.</p>
                     </div>
                     <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
                         <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
